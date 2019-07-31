@@ -13,5 +13,7 @@ I am using the Rasbian OS for the Raspberry Pi3B+. The NOOBS OS can be used for 
 Steps:
 
 -Enable Camera from the interface options in the terminal (raspi-config)
+
 -Install OpenCV3
+
 -After Installing OpenCV Test Your Camera by using the simpleCamTest.py File
