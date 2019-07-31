@@ -56,4 +56,10 @@ But you have to enable SSH from your interfacing options.
 
 To shutdown your Raspberry Pi from RemoteDesktop run this Command. (sudo shutdown -h now)
 
-All information I got was from this website. (https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) Please refer if any errors.
+References:
+
+https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+
+https://www.hackster.io
+
+https://www.pyimagesearch.com/
