@@ -1,5 +1,7 @@
 # FaceRecognition-OpenCV-RaspberryPi
 
+> **Archived.** This project and [Face-Detection-using-OpenCV](https://github.com/pranavragji/Face-Detection-using-OpenCV) were merged into [Facelog](https://github.com/pranavragji/facelog), a face recognition attendance and door log with a web dashboard. It swaps the Haar cascade and LBPH used here for YuNet and SFace, which name people correctly far more often. Facelog is private for now. The code below is left as it was in 2019.
+
 For this project you require
 
 1.Raspberry Pi
